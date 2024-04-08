@@ -1,5 +1,9 @@
 p {
-    font-size: lem;
+    font-size: 1em;
     color: brown;
 
+}
+span {
+    color: aquamarine;
+    font-size: 2em;
 }
